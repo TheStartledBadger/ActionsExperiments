@@ -1,6 +1,6 @@
 name: PMD Scan
 
-on: pull-request
+on: pull_request
 
 jobs:
   pmd:
