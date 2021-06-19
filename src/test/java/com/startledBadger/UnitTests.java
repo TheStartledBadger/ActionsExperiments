@@ -20,9 +20,4 @@ public class UnitTests
     {
     }
 
-    @Test
-    public void noddyTestThatFail() throws Exception 
-    {
-	    throw new RuntimeException("That didn't go well");
-    }
 }
