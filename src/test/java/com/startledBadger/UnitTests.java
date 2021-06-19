@@ -19,6 +19,4 @@ public class UnitTests
     public void noddyTestThatPasses() throws Exception 
     {
     }
-
-    compilation error...
 }
