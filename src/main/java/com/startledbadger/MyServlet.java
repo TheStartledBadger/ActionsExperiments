@@ -12,6 +12,8 @@ import javax.servlet.http.HttpServletResponse;
 @WebServlet(name = "MyServlet", urlPatterns = "/mything")
 public class MyServlet extends HttpServlet {
 
+	int i = 34;
+
     @Override
     protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException 
     {
